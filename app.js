@@ -1,2 +1,2 @@
-var solution = Math.floor(Math.random()*3);
+var solution = Math.floor(Math.random()*4);
 console.log  (solution);
