@@ -15,4 +15,8 @@ for(var i=0; i<3; i++){
 	 	console.log ("tu a gagner");break;}
  }
 
+ if (i=3) {
+ 		console.log ("t'es nul")
+ };
+
  	
